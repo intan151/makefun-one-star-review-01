@@ -1,5 +1,9 @@
 # One-Star Review of Something Essential
 
+[![make.fun · u-0xb3e689-one-star-review-of-something-essential-c7234629](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/intan151/makefun-one-star-review-01/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/intan151/makefun-one-star-review-01/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+
 Entry for the make.fun bounty
 [One-Star Review of Something Essential](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629):
 write the funniest deadpan one-star review, 160 characters or fewer,
